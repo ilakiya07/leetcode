@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ilakiya07/leetcode/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/ilakiya07/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
